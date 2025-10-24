@@ -57,3 +57,9 @@ This application enables users to send and receive messages instantly in a **res
 
 ## output
 
+<img width="372" height="753" alt="Image" src="https://github.com/user-attachments/assets/959656b3-e371-4b91-aecd-fb34f4ee30e4" />
+
+<img width="395" height="733" alt="Image" src="https://github.com/user-attachments/assets/8a9457c5-f431-4110-9277-065af6a85e6c" />
+
+<img width="373" height="752" alt="Image" src="https://github.com/user-attachments/assets/f3ff2749-8fca-48fc-a735-c0cc1dc7c6cc" />
+
